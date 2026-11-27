@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bruno-tamayo.github.io/bruno-tamayo-web/sitemap.xml
