@@ -17,3 +17,16 @@ El sitio está preparado para brunotamayo.com después de registrar el dominio y
 Confirma las sinopsis y el estado comercial de cada libro, agrega enlaces de compra reales, correo de prensa y perfiles sociales oficiales. Los títulos marcados como preparación o desarrollo no deben anunciarse como disponibles.
 
 Este sitio no incluye formularios conectados ni servicios de pago.
+
+
+## SEO y difusión
+- Metadatos Open Graph y Twitter Card para compartir el sitio en redes.
+- Datos estructurados Schema.org para identificar al autor.
+- `robots.txt` y `sitemap.xml` para facilitar el rastreo de buscadores.
+- URL canónica provisional: https://bruno-tamayo.github.io/bruno-tamayo-web/
+
+## Pendientes antes del lanzamiento definitivo
+1. Confirmar que GitHub Pages terminó el despliegue y que la URL pública abre correctamente.
+2. Registrar y conectar `brunotamayo.com`; después actualizar la URL canónica, sitemap y metadatos.
+3. Incorporar correo oficial, perfiles sociales y enlaces de compra reales.
+4. Sustituir estados editoriales provisionales por el estado comercial confirmado de cada título.
